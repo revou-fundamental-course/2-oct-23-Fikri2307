@@ -1,4 +1,4 @@
-[![MAIN PAGE](assets/images/s2.png)](https://niaz.netlify.app/)
+
 
 # Konversi suhu
 
@@ -24,5 +24,5 @@
   
   <a href="https://github.com/NiazTy"><img src="https://avatars.githubusercontent.com/u/90440005?v=4" height="128" width="128"></a>
   
-  <a href="https://github.com/NiazTy"><img title="Author" src="https://img.shields.io/badge/Author-NiazTy-purple.svg?style=for-the-badge&logo=github"/></a>
+ 
 </div>
