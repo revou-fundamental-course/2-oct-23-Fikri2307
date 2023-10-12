@@ -20,9 +20,9 @@
 </details>
 
 <div align="center">
-  <h3>Made by</h3>
+  <
   
-  <a href="https://github.com/NiazTy"><img src="https://avatars.githubusercontent.com/u/90440005?v=4" height="128" width="128"></a>
+  
   
  
 </div>
